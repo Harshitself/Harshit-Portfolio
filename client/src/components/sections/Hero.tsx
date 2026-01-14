@@ -108,8 +108,8 @@ export function Hero() {
               transition={{ duration: 5, repeat: Infinity, ease: "easeInOut", delay: 1 }}
               className="absolute -bottom-10 -left-10 p-4 glass-card rounded-xl border border-primary/30 hidden md:block"
             >
-              <div className="text-primary font-display font-bold text-xl">ITIL Certified</div>
-              <div className="text-xs text-white/60">Best Practices</div>
+              <div className="text-primary font-display font-bold text-xl">Tech Support</div>
+              <div className="text-xs text-white/60">Problem Solver</div>
             </motion.div>
           </div>
         </motion.div>
