@@ -1,0 +1,85 @@
+{
+  "name": "Harshit Bhardwaj",
+  "location": "Navi Mumbai, India",
+  "email": "hkb.bhardwaj44@gmail.com",
+  "phone": "+91 8709700540",
+  "links": {
+    "linkedin": "https://linkedin.com/in/harshit-bhardwaj-56b166143",
+    "github": "https://github.com/Harshitself"
+  },
+
+  "summary": "Versatile IT Support Engineer with 2+ years of experience in IT, Tech, and Application Support. Skilled in troubleshooting networks, operating systems, and enterprise applications across Windows, macOS, and Linux. Adept at incident management, system monitoring, and end-user support with a proven record of minimizing downtime and improving workflows. Recognized for adaptability, problem-solving, and a customer-first mindset during critical incidents and production outages.",
+
+  "experience": [
+    {
+      "title": "IT Onsite Support Engineer",
+      "company": "TaskUs",
+      "location": "Navi Mumbai, IN",
+      "dates": "May 2025 – Present",
+      "responsibilities": [
+        "Conduct preventive maintenance and inspections of server rooms, switches, Wi-Fi, and endpoints across Windows, macOS, and Linux.",
+        "Perform site audits and infrastructure health checks using diagnostic tools to ensure system uptime.",
+        "Configure and support VLAN-based networks for campaign requirements.",
+        "Provide onsite/remote support for hardware, software, networking, and end-user issues.",
+        "Assist in major incidents with log collection, cross-team coordination, and post-change validation.",
+        "Streamlined incident workflows by introducing standardized documentation practices.",
+        "Revamped hardware lifecycle processes with asset tracking systems, improving accountability and reducing downtime."
+      ]
+    },
+    {
+      "title": "NOC Service Desk Analyst (L1)",
+      "company": "TaskUs",
+      "location": "Indore, IN",
+      "dates": "Dec 2023 – May 2025",
+      "responsibilities": [
+        "Managed IT service desk tickets via ServiceNow, ensuring timely resolution of incidents and requests.",
+        "Delivered first-level support for hardware, software, network, and application issues.",
+        "Diagnosed and resolved connectivity problems for local and remote users.",
+        "Supported Active Directory user management and MFA recovery (Ping Admin).",
+        "Ensured device compliance via Workspace ONE Intelligent Hub.",
+        "Monitored servers, VPNs, and network devices using SolarWinds.",
+        "Classified and escalated incidents (P1/P2/P3) per ITIL framework.",
+        "Authored SOPs and knowledge base articles to enhance team efficiency."
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "degree": "Bachelor of Computer Applications (BCA)",
+      "institution": "Jharkhand Rai University",
+      "location": "Ranchi, India",
+      "dates": "2020 – 2023"
+    },
+    {
+      "degree": "AISSCE (Class XII)",
+      "institution": "St. Joseph’s Sr. Sec. School",
+      "location": "Muzaffarpur, India",
+      "dates": "2017 – 2019"
+    },
+    {
+      "degree": "AISSE (Class X)",
+      "institution": "Mahendra Muni Saraswati Shishu Vidya Mandir",
+      "location": "Madhupur, India",
+      "dates": "2016 – 2017"
+    }
+  ],
+
+  "skills": {
+    "Networking & Connectivity": [
+      "TCP/IP", "OSI model", "VLAN configuration", "IP addressing & subnetting", "DNS/DHCP", "VPN troubleshooting", "Diagnostic tools (ping, tracert, nslookup)"
+    ],
+    "Operating Systems": ["Windows 10/11", "macOS", "Linux (CLI, logs, services)"],
+    "Identity & Access Management": ["Active Directory", "Group Policy", "MFA/SSO troubleshooting"],
+    "Applications & Collaboration": ["Microsoft 365", "Slack", "Jira", "Confluence", "Browser troubleshooting"],
+    "ITSM & Incident Management": ["ServiceNow", "ITIL framework", "RCA documentation", "Escalation handling"],
+    "Monitoring & Virtualization": ["SolarWinds", "VMware ESXi/vCenter", "Workspace ONE Intelligent Hub"],
+    "Security & Compliance": ["MFA/2FA enrollment", "Endpoint compliance", "Certificate troubleshooting"],
+    "Development & Technical Curiosity": ["HTML", "CSS", "JavaScript", "React", "Node.js", "MongoDB", "REST APIs", "Git/GitHub"]
+  },
+
+  "languages": [
+    { "name": "English", "proficiency": "Professional" },
+    { "name": "Hindi", "proficiency": "Native" }
+  ]
+}
