@@ -1,11 +1,5 @@
 {
   "version": 2,
   "framework": "vite",
-  "public": true,
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "dest": "/index.html"
-    }
-  ]
+  "rootDirectory": "client"
 }
