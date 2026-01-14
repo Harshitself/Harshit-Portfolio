@@ -1,4 +1,12 @@
 {
   "version": 2,
-  "framework": "vite"
+  "framework": "vite",
+  "public": true,
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/client/$1"
+    }
+  ]
 }
