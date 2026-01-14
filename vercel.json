@@ -1,19 +1,10 @@
 {
   "version": 2,
-  "builds": [
+  "framework": "vite",
+  "public": true,
+  "rewrites": [
     {
-      "src": "package.json",
-      "use": "@vercel/static-build",
-      "config": {
-        "distDir": "dist",
-        "installCommand": "npm install",
-        "buildCommand": "cd client && npm install && npm run build && mv dist ../dist"
-      }
-    }
-  ],
-  "routes": [
-    {
-      "src": "/(.*)",
+      "source": "/(.*)",
       "dest": "/index.html"
     }
   ]
